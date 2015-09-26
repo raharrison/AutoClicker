@@ -2,7 +2,7 @@
 
 Small utility program to automatically, sequentially simulate clicks of a series of user defined points on the screen.
 
-![Screenshot](http://ryanharrison.co.uk/wp-content/uploads/2011/06/Auto_Clicker.jpg)
+![Screenshot](http://ryanharrison.co.uk/apps/autoclicker/Auto_Clicker.jpg)
 
 Users can:
 
